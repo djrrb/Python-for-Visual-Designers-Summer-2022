@@ -1,4 +1,4 @@
-# Python for Visual Designers
+# Python for Visual Designers!
 
 * [Type@Cooper Public Workshop](http://coopertype.org/event/python_for_visual_designers_su2022)
 * _Term:_ Summer 2022
