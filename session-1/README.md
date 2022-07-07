@@ -1,8 +1,8 @@
 # Session 1: Loops and Shapes
 
-* [**Session 2 code**](/session-2/code)
-* [**Session 2 challenges**](/session-2/challenges)
-* Session 2 recording
+* [**Session 1 code**](/session-2/code)
+* [**Session 1 challenges**](/session-2/challenges)
+* Session 1 recording
 
 
 ## Rough outline
