@@ -3,12 +3,14 @@
 * [Type@Cooper Public Workshop](http://coopertype.org/event/python_for_visual_designers_su2022)
 * _Term:_ Summer 2022
 * _Instructor:_ [David Jonathan Ross](https://djr.com)
-* _Office Hours:_ [Book on Calendly](http://calendly.com/djrrb/office-hours) or get in touch over slack or email
+* _Office Hours:_ [Book on Calendly](http://calendly.com/djrrb/office-hours) or get in touch on slack
 * Syllabus: [Github](https://github.com/djrrb/python-for-visual-designers-summer-2022) / [Dropbox](https://www.dropbox.com/sh/ld5pcxsei5pzstp/AACN7i9e8mvAt8qUDjbwvCUOa?dl=0)
 
 ## [Course info](/course-info)
 
 With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. [Read more »](/course-info)
+
+These course materials are accompanied by a *Slack workspace* and *Zoom link* that are only available to students.
 
 ## [Links & Resources](/resources)
 
@@ -16,7 +18,7 @@ DrawBot and Python documentation, as well as DrawBot script collections for you 
 
 ## Schedule
 
-All courses run from 6:30pm–8:30pm EDT.
+All courses run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20220707T223000&p1=179).
 
 | Session | Date | Subject |
 | ---- | ---- | -------------- | 
