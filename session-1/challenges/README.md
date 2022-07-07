@@ -12,7 +12,7 @@ Use `oval()` s to draw a donut that fills the canvas. Bonus points if you make t
 
 Modify our stripes-drawing script to create a stripey-gradient of color by augmenting the red, green, or blue fill values rather than setting them randomly? 🌇
 
-![Stripes](stripes.png)
+![Stripes](stripeGradient.png)
 
 ## Staircase
 
