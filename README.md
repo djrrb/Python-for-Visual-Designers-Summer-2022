@@ -6,11 +6,13 @@
 * _Office Hours:_ [Book on Calendly](http://calendly.com/djrrb/office-hours) or get in touch on slack
 * Syllabus: [Github](https://github.com/djrrb/python-for-visual-designers-summer-2022) / [Dropbox](https://www.dropbox.com/sh/ld5pcxsei5pzstp/AACN7i9e8mvAt8qUDjbwvCUOa?dl=0)
 
+These course materials are accompanied by a **Slack workspace** and **Zoom link** that are only available to students.
+
+
 ## [Course info](/course-info)
 
 With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. [Read more »](/course-info)
 
-These course materials are accompanied by a *Slack workspace* and *Zoom link* that are only available to students.
 
 ## [Links & Resources](/resources)
 
