@@ -1,0 +1,66 @@
+# Python for Visual Designers
+
+* [Type@Cooper Public Workshop](http://coopertype.org/event/python_for_visual_designers_su2022)
+* _Term:_ Summer 2022
+* _Instructor:_ [David Jonathan Ross](https://djr.com)
+* _Office Hours:_ [Book on Calendly](http://calendly.com/djrrb/office-hours) or get in touch over slack or email
+* Syllabus: [Github](https://github.com/djrrb/python-for-visual-designers-summer-2022) / [Dropbox](https://www.dropbox.com/sh/ld5pcxsei5pzstp/AACN7i9e8mvAt8qUDjbwvCUOa?dl=0)
+
+## [Course info](/course-info)
+
+## [Links & Resources](/resources)
+
+## Schedule
+
+All courses run from 6:30pm–8:30pm EDT.
+
+| Session | Date | Subject |
+| ---- | ---- | -------------- | 
+| 1   | July 7 | [**Session 1: Loops and Shapes**](/session-1) | 
+| 2   | July 14 | [**Session 2: Objects and Canvas**](/session-2) | 
+| 3   | July 21 | [**Session 3: Text and Image**](/session-3) | 
+| 4   | July 28 | [**Session 4: Layouts**](/session-4) |
+| 5   | August 4 | [**Session 5: Animation**](/session-5)|
+|  | 
+| 6   | August 25 | Follow-up session |
+
+
+## Code from class
+
+A record of the scripts that we write in class:
+
+* [Session 1 Code](/session-1/code)
+* [Session 2 Code](/session-2/code)
+* [Session 3 Code](/session-3/code)
+* [Session 4 Code](/session-4/code)
+* [Session 5 Code](/session-5/code)
+
+## Challenges
+
+Our version of homework; solve a problem and practice the skills we cover in class. Feel free to skip ahead, or riff on these to create your own problems. Possible solutions are available if you want to peek.
+
+* [Session 1 Challenges](/session-1/challenges)
+* [Session 2 Challenges](/session-2/challenges)
+* [Session 3 Challenges](/session-3/challenges)
+* [Session 4 Challenges](/session-4/challenges)
+* [Session 5 Challenges](/session-5/challenges)
+
+## Recordings
+
+All class sessions are recorded. Links will be added here as the class progresses:
+
+* Session 1 Recording
+* Session 2 Recording
+* Session 3 Recording
+* Session 4 Recording
+* Session 5 Recording
+
+## Zine
+
+Each student is encouraged to contribute 6 pages or 3 spreads for the class zine, which will be available in PDF as well as print-on-demand. The format is A5, full bleed, and the submission deadline is August 25. [Drawbot templates](/zine)
+
+Past zines, for inspiration:
+
+* [Zine 1](https://drive.google.com/file/d/1iw9giQcU6jlPxogsbogPQuyOrxGSn1OJ/view?usp=sharing)
+* [Zine 2](https://drive.google.com/file/d/1MOk4RcRypd6dhamVXAPem8Vuj7_y7EZV/view?usp=sharing)
+* [Zine 3](https://drive.google.com/file/d/1CRQPinJJUXjeYem_p7yBu7krkMAMgS_t/view?usp=sharing)
