@@ -8,11 +8,11 @@
 
 ## [Course info](/course-info)
 
-With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. [Read more](/course-info)
+With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. [Read more »](/course-info)
 
 ## [Links & Resources](/resources)
 
-[Links to](/resources) DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak.
+DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak. [Read more »](/course-info)
 
 ## Schedule
 
@@ -31,7 +31,7 @@ All courses run from 6:30pm–8:30pm EDT.
 
 ## Code from class
 
-A record of the scripts that we write in class:
+A record of the scripts that we write together in class.
 
 * Session 1 Code (coming soon)
 * Session 2 Code (coming soon)
@@ -60,7 +60,7 @@ All class sessions are recorded. Links will be added here as the class progresse
 
 ## Zine
 
-Each student is encouraged to contribute 6 pages or 3 spreads for the class zine, which will be available in PDF as well as print-on-demand. The format is A5, full bleed, and the submission deadline is August 25. [Drawbot templates](/zine)
+Each student is encouraged to contribute 6 pages or 3 spreads for the class zine, which will be available in PDF as well as print-on-demand. The format is A5, full bleed, and the submission deadline is August 25. [Drawbot templates »](/zine)
 
 Past zines, for inspiration:
 
