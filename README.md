@@ -20,7 +20,7 @@ DrawBot and Python documentation, as well as DrawBot script collections for you 
 
 ## Schedule
 
-All courses run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20220707T223000&p1=179).
+All class sessions run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20220707T223000&p1=179). I will try to show up 10–15 minutes early to answer questions or just say hi.
 
 | Session | Date | Subject |
 | ---- | ---- | -------------- | 
