@@ -29,31 +29,30 @@ All courses run from 6:30pm–8:30pm EDT.
 
 A record of the scripts that we write in class:
 
-* [Session 1 Code](/session-1/code)
-* [Session 2 Code](/session-2/code)
-* [Session 3 Code](/session-3/code)
-* [Session 4 Code](/session-4/code)
-* [Session 5 Code](/session-5/code)
+* Session 1 Code (coming soon)
+* Session 2 Code (coming soon)
+* Session 3 Code (coming soon)
+* Session 4 Code (coming soon)
+* Session 5 Code (coming soon)
 
 ## Challenges
 
-Our version of homework; solve a problem and practice the skills we cover in class. Feel free to skip ahead, or riff on these to create your own problems. Possible solutions are available if you want to peek.
+Our version of homework; solve a problem and practice the skills we cover in class. Feel free to skip ahead, or riff on these to create your own problems. Possible solutions are available if you want to peek. Post what you create in `#show-and-tell`!
 
 * [Session 1 Challenges](/session-1/challenges)
 * [Session 2 Challenges](/session-2/challenges)
 * [Session 3 Challenges](/session-3/challenges)
 * [Session 4 Challenges](/session-4/challenges)
-* [Session 5 Challenges](/session-5/challenges)
 
 ## Recordings
 
 All class sessions are recorded. Links will be added here as the class progresses:
 
-* Session 1 Recording
-* Session 2 Recording
-* Session 3 Recording
-* Session 4 Recording
-* Session 5 Recording
+* Session 1 Recording (coming soon)
+* Session 2 Recording (coming soon)
+* Session 3 Recording (coming soon)
+* Session 4 Recording (coming soon)
+* Session 5 Recording (coming soon)
 
 ## Zine
 
