@@ -8,7 +8,11 @@
 
 ## [Course info](/course-info)
 
+With no programming experience necessary, workshop participants will learn the basics of the Python programming language while working in the free DrawBot application for MacOS. [Read more](/course-info)
+
 ## [Links & Resources](/resources)
+
+[Links to](/resources) DrawBot and Python documentation, as well as DrawBot script collections for you to try out and tweak.
 
 ## Schedule
 
