@@ -2,7 +2,7 @@
 
 * [**Session 2 code**](/session-1/code)
 * [**Session 2 challenges**](/session-1/challenges)
-* Session 2 recording
+* [Session 2 recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
 
 
 ## Rough outline
