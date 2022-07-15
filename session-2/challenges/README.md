@@ -4,7 +4,7 @@ Alright, some challenges for this week (Again you’re welcome work on whatever 
 
 ## Circle of Circles
 
-Draw a ring of circles in the center of the canvas using `translate()`` and `rotate()`` (tip: my example uses `blendMode('overlay')`` to make the overlaps visible)
+Draw a ring of circles in the center of the canvas using `translate()` and `rotate()` (tip: my example uses `blendMode('overlay')` to make the overlaps visible)
 
 ![circle of circles](circleOfCircles.png)
 
