@@ -57,7 +57,7 @@ Our version of homework; solve a problem and practice the skills we cover in cla
 All class sessions are recorded. Links will be added here as the class progresses:
 
 * [Session 1 Recording](https://www.youtube.com/watch?v=N30f3XEZ3tY)
-* [Session 2 Recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
+* [Session 2 Recording, Part 1](https://cooper.zoom.us/rec/share/nNg0Yh7n_2xG2lLrYstoszYB_ACVt7FaqRuOIvGDJ49UTzrZb7R-IFl_A_iLObU.z95K-2bM6Rf7lOdE) (pw: `udNS06+1`) [Session 2 Recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
 * Session 3 Recording (coming soon)
 * Session 4 Recording (coming soon)
 * Session 5 Recording (coming soon)
