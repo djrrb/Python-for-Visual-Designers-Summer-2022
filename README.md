@@ -38,7 +38,7 @@ All class sessions run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/wo
 A record of the scripts that we write together in class.
 
 * [Session 1 Code](/session-1/code)
-* Session 2 Code (coming soon)
+* Session 2 Code (/session-2/code)
 * Session 3 Code (coming soon)
 * Session 4 Code (coming soon)
 * Session 5 Code (coming soon)
@@ -57,7 +57,7 @@ Our version of homework; solve a problem and practice the skills we cover in cla
 All class sessions are recorded. Links will be added here as the class progresses:
 
 * [Session 1 Recording](https://www.youtube.com/watch?v=N30f3XEZ3tY)
-* Session 2 Recording (coming soon)
+* [Session 2 Recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
 * Session 3 Recording (coming soon)
 * Session 4 Recording (coming soon)
 * Session 5 Recording (coming soon)
