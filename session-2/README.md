@@ -2,7 +2,7 @@
 
 * [**Session 2 code**](/session-1/code)
 * [**Session 2 challenges**](/session-1/challenges)
-* [Session 2 Recording, Part 1](https://cooper.zoom.us/rec/share/nNg0Yh7n_2xG2lLrYstoszYB_ACVt7FaqRuOIvGDJ49UTzrZb7R-IFl_A_iLObU.z95K-2bM6Rf7lOdE) (pw: `udNS06+1`)
+* [**Session 2 Recording, Part 1**](https://cooper.zoom.us/rec/share/nNg0Yh7n_2xG2lLrYstoszYB_ACVt7FaqRuOIvGDJ49UTzrZb7R-IFl_A_iLObU.z95K-2bM6Rf7lOdE) (pw: `udNS06+1`)
 * [**Session 2 recording, Part 2**](https://www.youtube.com/watch?v=ErfGmJVHNRc)
 
 
