@@ -10,7 +10,7 @@ Draw a ring of circles in the center of the canvas using `translate()` and `rota
 
 ## Scaling Square
 
-Draw a scaling square in black and white (bonus points if you only use rect() once!)
+Draw a scaling square in black and white (bonus points if you only use `rect()` once!)
 
 ![scaling square](scalingSquare.gif)
 
