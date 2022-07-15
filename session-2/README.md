@@ -9,15 +9,13 @@
 
 * _Review_
 * _Show & Tell_
-* Lists
-* Booleans
+* Conditionals [tutorial](https://pythonbasics.org/if-statements/)
+* Booleans (`True`, `False`)
 * Canvas
   * Pages
   * Graphics State ([docs]((https://www.drawbot.com/content/canvas/state.html)))
-  * Saving ([docs](https://www.drawbot.com/content/canvas/saveImage.html))
+  * `with savedState()` ([docs](https://www.drawbot.com/content/canvas/state.html#drawBot.savedState))
 * Functions
-* Text ([docs](https://www.drawbot.com/content/text/drawingText.html))
-* Formatted Strings ([docs](https://www.drawbot.com/content/text/formattedString.html))
 * Color ([docs](https://www.drawbot.com/content/color.html))
 * colorsys ([docs](https://docs.python.org/3/library/colorsys.html))
 
