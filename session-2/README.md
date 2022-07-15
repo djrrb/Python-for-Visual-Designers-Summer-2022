@@ -2,22 +2,24 @@
 
 * [**Session 2 code**](/session-1/code)
 * [**Session 2 challenges**](/session-1/challenges)
-* [Session 2 recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
+* [**Session 2 recording, Part 2**](https://www.youtube.com/watch?v=ErfGmJVHNRc)
 
 
 ## Rough outline
 
 * _Review_
-* _Show & Tell_
+* Loop vs no loop
+* `translate()` instead of `(x, y)`
+* Drawing from center `rect(myW/2, myH/2, myW, myH)`
 * Conditionals [tutorial](https://pythonbasics.org/if-statements/)
 * Booleans (`True`, `False`)
 * Canvas
   * Pages
   * Graphics State ([docs]((https://www.drawbot.com/content/canvas/state.html)))
   * `with savedState()` ([docs](https://www.drawbot.com/content/canvas/state.html#drawBot.savedState))
-* Functions
+* Animating
 * Color ([docs](https://www.drawbot.com/content/color.html))
-* colorsys ([docs](https://docs.python.org/3/library/colorsys.html))
+* hsv/colorsys ([docs](https://docs.python.org/3/library/colorsys.html))
 
 
 ## Optional readings
