@@ -38,8 +38,8 @@ All class sessions run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/wo
 A record of the scripts that we write together in class.
 
 * [Session 1 Code](/session-1/code)
-* Session 2 Code (/session-2/code)
-* Session 3 Code (coming soon)
+* [Session 2 Code](/session-2/code)
+* [Session 3 Code](/session-3/code)
 * Session 4 Code (coming soon)
 * Session 5 Code (coming soon)
 
@@ -58,7 +58,7 @@ All class sessions are recorded. Links will be added here as the class progresse
 
 * [Session 1 Recording](https://www.youtube.com/watch?v=N30f3XEZ3tY)
 * [Session 2 Recording, Part 1](https://cooper.zoom.us/rec/share/nNg0Yh7n_2xG2lLrYstoszYB_ACVt7FaqRuOIvGDJ49UTzrZb7R-IFl_A_iLObU.z95K-2bM6Rf7lOdE) (pw: `udNS06+1`) [Session 2 Recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
-* Session 3 Recording (coming soon)
+* [Session 3 recording](https://cooper.zoom.us/rec/share/MA79ee64fIyWT91OZtyxLmTYCXaO4NIIxSR-rMoE6oqlgL1NvL88TDmDtK_VGoNm.AXHDVsNoW3cvEFbk) (passcode: `@2t&MmRQ`)
 * Session 4 Recording (coming soon)
 * Session 5 Recording (coming soon)
 
