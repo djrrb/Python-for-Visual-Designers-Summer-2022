@@ -2,7 +2,7 @@
 
 * [**Session 3 code**](/session-3/code)
 * [**Session 3 challenges**](/session-3/challenges)
-* Session 3 recording
+* [**Session 3 recording**](https://cooper.zoom.us/rec/share/MA79ee64fIyWT91OZtyxLmTYCXaO4NIIxSR-rMoE6oqlgL1NvL88TDmDtK_VGoNm.AXHDVsNoW3cvEFbk) (passcode: `@2t&MmRQ`)
 
 
 ## Rough outline
