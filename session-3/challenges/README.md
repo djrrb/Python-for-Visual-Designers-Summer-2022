@@ -38,3 +38,15 @@ make a function to represent a ring of shapes
 then draw your document and make a loop of shape rings
 
 ![ring of shapes](ringOfShapes.png)
+
+## Bonus Challenge: Wedge shadow
+
+This comes from a [facebook post](https://www.facebook.com/photo/?fbid=10166604290005096&set=a.10154033986785096) and solution by Just van Rossum...replicate the following instructions to make a wedge shadow (note your drawbot script might not be in this order):
+
+### Simple construction of a wedge shade
+* Set the word in black
+* Turn the black to gray
+* scale gray vertically 90% and backslant it 10 degrees
+* place the black on gray by registering it at the baseline
+
+![wedgeShade](wedgeShade.png)
