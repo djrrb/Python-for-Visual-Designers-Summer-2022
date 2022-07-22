@@ -2,7 +2,7 @@
 
 Find a plaid/argyle/polka dot/whatever pattern in your sweater drawer, in your house, or online and try to execute it in DrawBot.
 
-Try to find where the pattern repeats and use a loop for that so you don’t have to do more manual drawing than you have to. Bonus points for defining that repeating pattern as a function, and then make a grid that simply calls the function.
+Try to find where the pattern repeats and only draw a single instance of the repeating pattern. Then use a grid loop so you don’t have to do more manual drawing than you have to. Bonus points for defining that repeating pattern as a function that you define, and then making a grid that simply calls the function.
 
 ![Plaid](pattern-example-plaid.png)
 
@@ -22,8 +22,7 @@ image(myImage, (0, 0))              # draw the image
 
 ## Play with Filters
 
-Have fun experimenting..[here’s a list of them!](https://www.drawbot.com/content/image/imageObject.html#imageobject)!
-
+This is an open-ended one. Have fun experimenting..[here’s a list of them!](https://www.drawbot.com/content/image/imageObject.html#imageobject)!
 
 ## Checkerboard
 
