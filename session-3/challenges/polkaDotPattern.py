@@ -40,3 +40,5 @@ for myRowNumber in range(myRowCount):
     # exit saved state
     # move up for each column
     translate(0, myRowHeight)
+# exit all loops
+saveImage('polkaDotPattern.png')
