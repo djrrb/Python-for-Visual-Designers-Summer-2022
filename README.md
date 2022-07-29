@@ -40,7 +40,7 @@ A record of the scripts that we write together in class.
 * [Session 1 Code](/session-1/code)
 * [Session 2 Code](/session-2/code)
 * [Session 3 Code](/session-3/code)
-* Session 4 Code (coming soon)
+* [Session 4 Code](/session-4/code)
 * Session 5 Code (coming soon)
 
 ## Challenges
@@ -59,7 +59,7 @@ All class sessions are recorded. Links will be added here as the class progresse
 * [Session 1 Recording](https://www.youtube.com/watch?v=N30f3XEZ3tY)
 * [Session 2 Recording, Part 1](https://cooper.zoom.us/rec/share/nNg0Yh7n_2xG2lLrYstoszYB_ACVt7FaqRuOIvGDJ49UTzrZb7R-IFl_A_iLObU.z95K-2bM6Rf7lOdE) (pw: `udNS06+1`) [Session 2 Recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
 * [Session 3 recording](https://cooper.zoom.us/rec/share/MA79ee64fIyWT91OZtyxLmTYCXaO4NIIxSR-rMoE6oqlgL1NvL88TDmDtK_VGoNm.AXHDVsNoW3cvEFbk) (passcode: `@2t&MmRQ`)
-* Session 4 Recording (coming soon)
+* [Session 4 recording](https://cooper.zoom.us/rec/share/HtBCBtoau16d8XlBLX6gdTYKo3ADC6ntRCaoDjS_N7R5BNOEgmlm9RneHgUyCHJD.JYmkaiBOT14zhK2Q) (passcode: ` #1P*#6WZ`)
 * Session 5 Recording (coming soon)
 
 ## Zine
