@@ -18,7 +18,7 @@
 
 ## Drawbot stuff
 
-# `FormattedString()` ([docs](https://drawbot.com/content/text/formattedString.html))
-# `textSize()`
-# `fontDescender()`, `fontCapHeight()`, `fontXHeight()`
-# `BezierPath()` ([docs](https://drawbot.com/content/text/bezierPath.html))
+* `FormattedString()` ([docs](https://drawbot.com/content/text/formattedString.html))
+* `textSize()`
+* `fontDescender()`, `fontCapHeight()`, `fontXHeight()`
+* `BezierPath()` ([docs](https://drawbot.com/content/text/bezierPath.html))
