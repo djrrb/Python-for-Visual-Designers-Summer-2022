@@ -2,7 +2,7 @@
 
 * [**Session 4 code**](/session-4/code)
 * [**Session 4 challenges**](/session-4/challenges)
-* Session 4 recording
+* [**Session 4 recording**](https://cooper.zoom.us/rec/share/HtBCBtoau16d8XlBLX6gdTYKo3ADC6ntRCaoDjS_N7R5BNOEgmlm9RneHgUyCHJD.JYmkaiBOT14zhK2Q), passcode ` #1P*#6WZ`
 
 
 ## Python stuff
