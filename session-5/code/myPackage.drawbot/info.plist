@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>developer</key>
+	<string>me</string>
+	<key>developerURL</key>
+	<string>https://djr.com</string>
+	<key>mainScript</key>
+	<string>gridWithUI.py</string>
+	<key>name</key>
+	<string>Grid With UI</string>
+	<key>requiresVersion</key>
+	<string>3.0</string>
+	<key>version</key>
+	<string>0.1</string>
+</dict>
+</plist>
