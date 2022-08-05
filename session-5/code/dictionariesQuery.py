@@ -1,17 +1,18 @@
 myString = 'hello world'
 myList = ['apples', 'oranges', 'bananas']
 
-myList = list('hello world')
 
 myDict = { 
     'oranges': 2,
     'apples': 4,
     'bananas': 16
     }
-print(myDict)
-myDict = dict(
-    oranges=2,
-    apples=4,
-    bananas=16
-    )
-print(myDict)
+
+#print(myList[-1])
+
+print(myDict['bananas'])
+
+print(list(myDict.values()))
+
+for myKey in myDict:
+    print(myKey, myDict[myKey])
