@@ -3,11 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>developer</key>
-	<string>me</string>
+	<string>DJR</string>
 	<key>developerURL</key>
 	<string>https://djr.com</string>
-	<key>mainScript</key>
-	<string>gridWithUI.py</string>
 	<key>name</key>
 	<string>Grid With UI</string>
 	<key>requiresVersion</key>
