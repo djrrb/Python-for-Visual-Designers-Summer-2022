@@ -60,7 +60,7 @@ All class sessions are recorded. Links will be added here as the class progresse
 * [Session 2 Recording, Part 1](https://cooper.zoom.us/rec/share/nNg0Yh7n_2xG2lLrYstoszYB_ACVt7FaqRuOIvGDJ49UTzrZb7R-IFl_A_iLObU.z95K-2bM6Rf7lOdE) (pw: `udNS06+1`) [Session 2 Recording, Part 2](https://www.youtube.com/watch?v=ErfGmJVHNRc)
 * [Session 3 recording](https://cooper.zoom.us/rec/share/MA79ee64fIyWT91OZtyxLmTYCXaO4NIIxSR-rMoE6oqlgL1NvL88TDmDtK_VGoNm.AXHDVsNoW3cvEFbk) (passcode: `@2t&MmRQ`)
 * [Session 4 recording](https://cooper.zoom.us/rec/share/HtBCBtoau16d8XlBLX6gdTYKo3ADC6ntRCaoDjS_N7R5BNOEgmlm9RneHgUyCHJD.JYmkaiBOT14zhK2Q) (passcode: ` #1P*#6WZ`)
-* [Session 5 recording](https://cooper.zoom.us/rec/share/M6fNd9O8Znc8cwPyr08b4MCPfCGt3TNLlhmgeyvK-zQekSA3o81TCFidERoezzEW.1Fc5Ng9Kir0cFLVc) passcode: `9CjTVh#b`
+* [Session 5 recording](https://cooper.zoom.us/rec/share/M6fNd9O8Znc8cwPyr08b4MCPfCGt3TNLlhmgeyvK-zQekSA3o81TCFidERoezzEW.1Fc5Ng9Kir0cFLVc) (passcode: `9CjTVh#b`)
 
 ## Zine
 
