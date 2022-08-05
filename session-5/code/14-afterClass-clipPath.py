@@ -1,10 +1,12 @@
-myFormattedString = FormattedString('Hi!', fontSize=900, font='Impact', tracking=-40)
+myFormattedString = FormattedString('Hi!', fontSize=800, font='Impact', align="center")
 
 myTextPath = BezierPath()
 myTextPath.text(myFormattedString)
 
-translate(40, 150)
+# move to the lower center
+translate(width()/2, 200)
 
+# enter a saved state and draw the text with a shadow
 with savedState():
     shadow(
         (-20, -20),  # x y offset
@@ -24,8 +26,16 @@ with savedState():
         myShapeSize = randint(0, 100)
         fill(random(), random(), random(), random())
         oval(
-            randint(0, width())-myShapeSize/2,
+            randint(-width()/2, width()/2)-myShapeSize/2,
             randint(0, height())-myShapeSize/2,
             myShapeSize,
             myShapeSize,
             )
+
+# exit the saved state to deactivate the clipping mask
+# move down a bit
+translate(0, -100)
+# set some text outside of the clip path
+fill(0)
+fontSize(20)
+text('how’s it going?', (0, 0), align="center")
