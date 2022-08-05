@@ -41,7 +41,7 @@ A record of the scripts that we write together in class.
 * [Session 2 Code](/session-2/code)
 * [Session 3 Code](/session-3/code)
 * [Session 4 Code](/session-4/code)
-* [Session 5 Code](/session/5/code)
+* [Session 5 Code](/session-5/code)
 
 ## Challenges
 
